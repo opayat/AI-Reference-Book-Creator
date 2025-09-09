@@ -1,0 +1,5 @@
+{
+  "name": "Reference Book Maker",
+  "description": "An application that uses AI to generate a complete reference book on any topic, including a cover, table of contents, and detailed chapter content.",
+  "requestFramePermissions": []
+}
